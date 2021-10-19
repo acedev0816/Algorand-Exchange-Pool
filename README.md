@@ -1,7 +1,4 @@
 
-
-## Get Started
-
 1. Clone this repo.
 
 2. Install dependencies with `npm install`.
